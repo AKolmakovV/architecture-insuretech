@@ -111,6 +111,7 @@ Active-Active обеспечивает высокие показатели от�
 # Задание 5. Проектирование GraphQL API
 
 Swagger контракт: ./Task5/swagger.yaml
+
 GraphQL контракт: ./Task5/schema.graphql
 
 ### Пример использования:
